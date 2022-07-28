@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório versionado.
 
- Repositório criado durante o curso de Git e GitHub do Curso em Video.
+ Repositório criado durante o **Curso de Git e GitHub** do *Curso em Video.*
